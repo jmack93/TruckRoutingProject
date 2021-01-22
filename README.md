@@ -4,6 +4,7 @@ Data Structures and Algorithms II project. Variation of the "Traveling Salespers
 # Documentation
 
 Documentation on this project can be found within the PDF titled "TruckRoutingProject Documentation"
+https://github.com/jmack93/TruckRoutingProject/blob/main/TruckRoutingProblem%20Documentation.pdf
 
 # Screenshots of Functionality
 
